@@ -1,4 +1,4 @@
-before_script:
+before_install:
   - cd random-gen
 
 language: node_js
