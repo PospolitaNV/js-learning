@@ -1,3 +1,6 @@
+before_script:
+  - cd random-gen
+
 language: node_js
 
 node_js:
