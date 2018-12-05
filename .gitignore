@@ -1,0 +1,4 @@
+.idea/
+
+random-gen/node_modules/*
+random-gen/coverage/
