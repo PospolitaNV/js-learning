@@ -1,11 +1,11 @@
 {
-  "name": "random-gen",
-  "version": "1.0.0",
+  "name": "@pospolitanv/deterministic-random",
+  "version": "0.1.0",
   "scripts": {
     "run": "node src/app.js",
     "lint": "eslint src",
     "fixlint": "eslint --fix src",
-    "test": "jest",
+    "test": "npm run lint && jest",
     "coverage": "jest --collectCoverageFrom=src/**.js --coverage src"
   },
   "devDependencies": {
