@@ -1,7 +1,4 @@
 .idea/
 
-random-gen/node_modules/*
-random-gen/coverage/
-
-hash-promises/node_modules/*
-hash-promises/coverage/
+**/node_modules/*
+**/coverage/
